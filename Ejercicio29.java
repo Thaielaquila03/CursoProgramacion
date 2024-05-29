@@ -11,11 +11,8 @@ public class Ejercicio29 {
         int nota3 = s.nextInt();
         System.out.println("El promedio de sus 3 notas es de :" + (nota1 + nota2 + nota3) / 3);
 
-        if (nota1 == 10) {
             
-        }else{
-            
-        }
+        
 
     }
 }
